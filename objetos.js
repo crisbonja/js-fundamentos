@@ -71,3 +71,6 @@ typeof animal;
 let verdadeiro = true;
 typeof verdadeiro;
 
+
+isso é uma alteração
+
